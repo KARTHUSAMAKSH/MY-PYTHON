@@ -18,3 +18,13 @@ b = int(input("Enter number 2"))
 #mutliplication
 product=a*b
 print("mutliplication is", product)
+
+
+
+
+#arithmatic Operation
+a = int(input("enter number 1"))
+b = int(input("enter number 2"))
+#addition
+sum=a+b
+print("addition is", sum)
